@@ -1,0 +1,35 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+models/
+本地配置.ps1
+local-config.ps1
+素材/
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# Pip缓存和临时文件
+runtime-cache/
+pip-cache/
+.cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 模型文件
+*.pth
+*.pt
+*.onnx
+*.safetensors
+
+# 日志
+*.log
+
+# IDE
+.idea/
+.vscode/
